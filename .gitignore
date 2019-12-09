@@ -1,0 +1,15 @@
+##ignore this file##
+/target/
+/target
+target/
+.idea/
+.classpath
+.project
+.settings      
+ ##filter databfile、sln file##
+##class file##
+*.class  
+# compression file
+*.jar  
+*.MF
+/.idea
